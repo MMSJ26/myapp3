@@ -1,3 +1,5 @@
 hello
 
 testing clone from remote
+
+Testing AWS instance clone.
